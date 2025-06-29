@@ -48,7 +48,6 @@
 
 ### 🛠️ My Tech Arsenal
 
-### 👨‍💻 Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
@@ -60,32 +59,17 @@
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/markdown-fill-wf1u94blkkfdnbyq8evn6.png/markdown-fill-9ynktdwyyo69j2mczhhzxg.png?_a=DATAdtAAZAA0" width="40" alt="Markdown"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-
-###
-### 🎨 Frameworks
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS"/>
-
-###
-### 🔧 Version Control  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-
-###
-### 🚀 Deployment  
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-icons/vercel-logo-9lbpgja3yk7f01i2dpn6qq.png/vercel-logo-byme5d3jfs74gbr6fsyvl7.png?_a=DATAdtAAZAA0" width="40" alt="Vercel"/>
-
-###
-### 📚 Notes & Docs  
 <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40" alt="Notion"/>
 
-###
 
-## 🧠 Currently Exploring
+### 🧠 Currently Exploring
 <b><p align="left">
 - 🌐 Backend development with Node.js<br>
 - ⚙️ Modern frameworks & tools in full-stack development<br>
 - 💡 Best practices in clean code and software design
 </p></b>
-
-##
