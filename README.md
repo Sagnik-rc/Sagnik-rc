@@ -9,9 +9,10 @@
 ###
 
 <p align="center">
-  <strong><big>Hi there! 👋 I'm <span style="color:blue"><b>Sagnik</b></span></big></strong><br>
+  <strong><big>Hi there! 👋 I'm <b>Sagnik</b></big></strong><br>
   💻 A dedicated tech enthusiast, quick learner, and problem solver.<br>
-  🚀 I enjoy taking on challenges and turning complex ideas into simple, elegant solutions.
+  🚀 I enjoy taking on challenges and turning complex ideas into simple, elegant solutions.<br>
+  <b>Here are my socials:<b>
 </p>
 
 ###
@@ -34,32 +35,57 @@
 
 ###
 
-<p align="left">- 🔭 I am presently pursuing my academic studies.<br>- 📚 I'm currently learning Node Js and various other frameworks.<br>- ⚡ In my leisure time, I enjoy engaging in singing and expanding my knowledge in coding.</p>
+
+<p align="left">
+- 🎓 Currently an undergraduate Computer Science student at KIIT University.<br>
+- 📚 Passionate about learning how technology shapes the world and how I can contribute to it.<br>
+- 🎶 Outside of code, you'll probably find me singing, thinking up side project ideas, or questioning how things work under the hood.
+</p>
 
 ###
 
 <img align="right" height="211" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ4MXo3MmNreDk0YjI1amU0YnVxZWQxaHFsbjJnczRwMzlwZjF2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
-###
+### 🛠️ My Tech Arsenal
 
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="40" alt="notion logo" />
-</div>
+### 👨‍💻 Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+<img width="12" />
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/markdown-fill-wf1u94blkkfdnbyq8evn6.png/markdown-fill-9ynktdwyyo69j2mczhhzxg.png?_a=DATAdtAAZAA0" width="40" alt="Markdown"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
 
 ###
+### 🎨 Frameworks
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS"/>
+
+###
+### 🔧 Version Control  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+
+###
+### 🚀 Deployment  
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-icons/vercel-logo-9lbpgja3yk7f01i2dpn6qq.png/vercel-logo-byme5d3jfs74gbr6fsyvl7.png?_a=DATAdtAAZAA0" width="40" alt="Vercel"/>
+
+###
+### 📚 Notes & Docs  
+<img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40" alt="Notion"/>
+
+###
+
+## 🧠 Currently Exploring
+<b><p align="left">
+- 🌐 Backend development with Node.js<br>
+- ⚙️ Modern frameworks & tools in full-stack development<br>
+- 💡 Best practices in clean code and software design
+</p></b>
+
+##
