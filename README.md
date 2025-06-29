@@ -42,10 +42,6 @@
 - 🎶 Outside of code, you'll probably find me singing, thinking up side project ideas, or questioning how things work under the hood.
 </p>
 
-###
-
-<img align="right" height="211" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJ4MXo3MmNreDk0YjI1amU0YnVxZWQxaHFsbjJnczRwMzlwZjF2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
 ### 🛠️ My Tech Arsenal
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
