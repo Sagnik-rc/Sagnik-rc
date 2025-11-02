@@ -71,7 +71,21 @@
 
 ### 🧠 Currently Exploring
 <b><p align="left">
-- 🌐 Backend development with Node.js<br>
+- 🌐 Backend development with Django<br>
 - ⚙️ Modern frameworks & tools in full-stack development<br>
 - 💡 Best practices in clean code and software design
 </p></b>
+
+# 📊 GitHub Stats:
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=Sagnik-rc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=Sagnik-rc&theme=dark&hide_border=false) </br>
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik-rc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sagnik-rc&icon=0&color=0)](https://visitcount.itsvg.in)
