@@ -71,10 +71,11 @@
 
 ### 🧠 Currently Exploring
 <b><p align="left">
-- 🌐 Backend development with Django<br>
-- ⚙️ Modern frameworks & tools in full-stack development<br>
-- 💡 Best practices in clean code and software design
+- 🤖 AI & Machine Learning fundamentals (learning phase)<br>
+- 🐍 Python, data handling & model basics<br>
+- 🌐 Backend concepts and scalable system design
 </p></b>
+
 
 # 📊 GitHub Stats:
 <div align="center">
