@@ -19,16 +19,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sagnik-roy-chowdhury-138286297/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="82" alt="linkedin logo" />
   </a>
   <a href="https://x.com/Sagnik_codes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" width="82" alt="twitter logo"  />
   </a>
   <a href="sagnikroychowdhury397@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="82" alt="gmail logo"  />
   </a>
   <a href="https://dev.to/sagnikrc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=dev&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" width="82" alt="gmail logo"  />
   </a>
 </div>
 
