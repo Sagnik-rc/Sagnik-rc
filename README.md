@@ -10,8 +10,8 @@
 
 <p align="center">
   <strong><big>Hi there! 👋 I'm <b>Sagnik</b></big></strong><br>
-  💻 A dedicated tech enthusiast, quick learner, and problem solver.<br>
-  🚀 I enjoy taking on challenges and turning complex ideas into simple, elegant solutions.<br>
+  💻 Focused on problem solving and continuous learning.<br>
+  🚀 Interested in building clear, reliable, and scalable solutions. <br>
   <b>Here are my socials:<b>
 </p>
 
@@ -33,13 +33,12 @@
 
 <h3 align="center">👩‍💻  About Me</h3>
 
-###
-
 
 <p align="left">
-- 🎓 Currently an undergraduate Computer Science student at KIIT University.<br>
-- 📚 Passionate about learning how technology shapes the world and how I can contribute to it.<br>
-- 🎶 Outside of code, you'll probably find me singing, thinking up side project ideas, or questioning how things work under the hood.
+- 🎓 Undergraduate Computer Science student<br>
+- 🧠 Curious, growth-oriented learner with a focus on fundamentals<br>
+- 🔍 Interested in research-driven development and open-source contribution<br>
+- 🌱 Actively preparing for programs like **GSoC** and research-based opportunities<br>
 </p>
 
 ### 🛠️ My Tech Arsenal
@@ -71,9 +70,10 @@
 
 ### 🧠 Currently Exploring
 <b><p align="left">
-- 🤖 AI & Machine Learning fundamentals (learning phase)<br>
-- 🐍 Python, data handling & model basics<br>
-- 🌐 Backend concepts and scalable system design
+- 🤖 Artificial Intelligence & Machine Learning fundamentals <br>
+- 🐍 Python for data handling and basic model development  <br>
+- 🌐 Backend concepts and scalable system design  <br>
+- 📖 Reading documentation, research blogs, and open-source codebases  <br>
 </p></b>
 
 
