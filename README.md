@@ -69,6 +69,8 @@
 <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-icons/vercel-logo-9lbpgja3yk7f01i2dpn6qq.png/vercel-logo-byme5d3jfs74gbr6fsyvl7.png?_a=DATAdtAAZAA0" width="40" alt="Vercel"/>
 <img width="12" />
 <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40" alt="Notion"/>
+<img width="12" />
+<img src="https://www.svgrepo.com/show/373938/numpy.svg" width="40" alt="Numpy"/>
 
 
 ### 🧠 Currently Exploring
