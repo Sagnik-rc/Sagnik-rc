@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://i.pinimg.com/736x/ed/33/66/ed33665b065b233baad83926a393a998.jpg"  height='200px'/>
+  <img  src="./Sagnik-rc_github_banner.png" height='200px'/>
 </div>
 
 ###
