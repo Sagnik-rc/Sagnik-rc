@@ -2,85 +2,115 @@
   <img  src="./Sagnik-rc_github_banner.png" height='200px'/>
 </div>
 
-###
+<br/>
+<br/>
 
-<h1 align="center">Hey CodeStalker 😎</h1>
- 
-###
+<h1>SAGNIK ROY CHOWDHURY</h1>
 
-<p align="center">
-  <strong><big>Hi there! 👋 I'm <b>Sagnik</b></big></strong><br>
-  💻 Focused on problem solving and continuous learning.<br>
-  🚀 Interested in building clear, reliable, and scalable solutions. <br>
-  <b>Here are my socials:<b>
-</p>
+<!-- Socials -->
+<a href="https://www.linkedin.com/in/sagnik-roy-chowdhury-138286297/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+</a>
+&nbsp;
+<a href="https://x.com/Sagnik_codes" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/>
+</a>
+&nbsp;
+<a href="mailto:sagnikroychowdhury397@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+</a>
+&nbsp;
+<a href="https://dev.to/sagnikrc" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=DEV.to&logo=dev.to&label=&color=000000&logoColor=white&style=for-the-badge" height="25"/>
+</a>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sagnik-roy-chowdhury-138286297/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/Sagnik_codes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="sagnikroychowdhury397@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://dev.to/sagnikrc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="DEV logo"  />
-  </a>
 </div>
 
-###
+---
 
-<h3 align="center">👩‍💻  About Me</h3>
+## 👤 About Me
 
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech @ KIIT University, Class of 2028 |
+| 💼 **Experience** | Delivered full-stack client projects end-to-end — DB design to UI |
+| 🔄 **Now** | Transitioning into Machine Learning, Data Science & AI Engineering |
+| 🎯 **Goal** | AI/ML Engineer & AI Data Scientist with open-source impact |
 
-<p align="left">
-- 🎓 Undergraduate Computer Science student<br>
-- 🧠 Curious, growth-oriented learner with a focus on fundamentals<br>
-- 🔍 Interested in research-driven development and open-source contribution<br>
-- 🌱 Actively preparing for programs like **GSoC** and research-based opportunities<br>
+---
+
+## 🚀 Current Focus
+
+> Built and delivered full-stack web applications across the MERN stack — MongoDB, Express, React, Node.js — including client projects and multiple end-to-end builds from database to UI.
+>
+> Currently transitioning into Machine Learning and Data Science.
+>
+> **Target:** `AI/ML Engineer` & `AI Data Scientist`
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 </p>
 
-### 🛠️ My Tech Arsenal
+### Frameworks & Runtimes
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="TailwindCSS"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-<img width="12" />
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/markdown-fill-wf1u94blkkfdnbyq8evn6.png/markdown-fill-9ynktdwyyo69j2mczhhzxg.png?_a=DATAdtAAZAA0" width="40" alt="Markdown"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-<img width="12" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS"/>
-<img width="12" />
-<img src="https://www.svgrepo.com/show/349341/djangoproject.svg" width="40" alt="Django"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-<img width="12" />
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-icons/vercel-logo-9lbpgja3yk7f01i2dpn6qq.png/vercel-logo-byme5d3jfs74gbr6fsyvl7.png?_a=DATAdtAAZAA0" width="40" alt="Vercel"/>
-<img width="12" />
-<img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40" alt="Notion"/>
-<img width="12" />
-<img src="https://www.svgrepo.com/show/373938/numpy.svg" width="40" alt="Numpy"/>
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+</p>
 
+### Libraries & Data
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+</p>
 
-### 🧠 Currently Exploring
-<b><p align="left">
-- 🤖 Artificial Intelligence & Machine Learning fundamentals <br>
-- 🐍 Python for data handling and basic model development  <br>
-- 🌐 Backend concepts and scalable system design  <br>
-- 📖 Reading documentation, research blogs, and open-source codebases  <br>
-</p></b>
+### Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  &nbsp;
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-icons/vercel-logo-9lbpgja3yk7f01i2dpn6qq.png/vercel-logo-byme5d3jfs74gbr6fsyvl7.png?_a=DATAdtAAZAA0" width="40" title="Vercel"/>
+  &nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40" title="Notion"/>
+</p>
 
+---
+
+## 🧠 Currently Exploring
+
+- 🤖 AI & ML fundamentals — models, maths, architectures
+- 🐍 Python for data handling, EDA and basic model development
+- 🌐 Backend depth — scalable system design & architecture patterns
+
+---
 
 # 📊 GitHub Stats:
 <div align="center">
