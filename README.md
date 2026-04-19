@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<h1>SAGNIK ROY CHOWDHURY</h1>
+<h1 align="center">SAGNIK ROY CHOWDHURY</h1>
 
 <!-- Socials -->
 <a href="https://www.linkedin.com/in/sagnik-roy-chowdhury-138286297/" target="_blank">
