@@ -1,30 +1,27 @@
 <div align="center">
-  <img  src="./Sagnik-rc_github_banner.png" height='200px'/>
+  <img src="./Sagnik-rc_github_banner.png" height="200px" alt="Banner"/>
 </div>
 
 <br/>
-<br/>
 
-<h1 align="center">SAGNIK ROY CHOWDHURY</h1>
+<h1 align="center">Sagnik Roy Chowdhury</h1>
 
-<!-- Socials -->
 <div align="center">
-<a href="https://www.linkedin.com/in/sagnik-roy-chowdhury-138286297/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-</a>
-&nbsp;
-<a href="https://x.com/Sagnik_codes" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/>
-</a>
-&nbsp;
-<a href="mailto:sagnikroychowdhury397@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
-</a>
-&nbsp;
-<a href="https://dev.to/sagnikrc" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=DEV.to&logo=dev.to&label=&color=000000&logoColor=white&style=for-the-badge" height="25"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/sagnik-roy-chowdhury-138286297/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Sagnik_codes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sagnikroychowdhury397@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  &nbsp;
+  <a href="https://dev.to/sagnikrc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=DEV.to&logo=dev.to&label=&color=000000&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
 </div>
 
 ---
@@ -34,7 +31,7 @@
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech @ KIIT University, Class of 2028 |
-| 💼 **Experience** | Delivered full-stack client projects end-to-end — DB design to UI |
+| 💼 **Experience** | Full-stack client projects end-to-end — DB design to UI |
 | 🔄 **Now** | Transitioning into Machine Learning, Data Science & AI Engineering |
 | 🎯 **Goal** | AI/ML Engineer & AI Data Scientist with open-source impact |
 
@@ -42,11 +39,11 @@
 
 ## 🚀 Current Focus
 
-> Built and delivered full-stack web applications across the MERN stack — MongoDB, Express, React, Node.js — including client projects and multiple end-to-end builds from database to UI.
->
-> Currently transitioning into Machine Learning and Data Science.
->
-> **Target:** `AI/ML Engineer` & `AI Data Scientist`
+Built and delivered full-stack web applications across the MERN stack — MongoDB, Express, React, Node.js — including client projects and multiple end-to-end builds from database to UI.
+
+Currently transitioning into **Machine Learning** and **Data Science**.
+
+**Target:** `AI/ML Engineer` · `AI Data Scientist`
 
 ---
 
@@ -98,29 +95,31 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   &nbsp;
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-icons/vercel-logo-9lbpgja3yk7f01i2dpn6qq.png/vercel-logo-byme5d3jfs74gbr6fsyvl7.png?_a=DATAdtAAZAA0" width="40" title="Vercel"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="30" title="Vercel"/>
   &nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" width="40" title="Notion"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="30" title="Notion"/>
 </p>
 
 ---
 
 ## 🧠 Currently Exploring
 
-- 🤖 AI & ML fundamentals — models, maths, architectures
-- 🐍 Python for data handling, EDA and basic model development
+- 🤖 AI & ML fundamentals — models, mathematics, architectures
+- 🐍 Python for data handling, EDA, and model development
 - 🌐 Backend depth — scalable system design & architecture patterns
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <div align="center">
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=Sagnik-rc&theme=dark&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik-rc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sagnik-rc&theme=dark&hide_border=false)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik-rc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Sagnik-rc&icon=0&color=0)](https://visitcount.itsvg.in)
