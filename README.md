@@ -116,7 +116,7 @@ Currently transitioning into **Machine Learning** and **Data Science**.
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sagnik-rc&theme=dark&hide_border=false)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagnik-rc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sagnik-rc&theme=dark&hide_border=false&layout=compact&langs_count=8)
 
 </div>
 
